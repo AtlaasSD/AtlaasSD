@@ -6,8 +6,8 @@
 
 ### 🛠️ Core Engineering Stack
 
-- **Languages:** Rust, C++, Python, TypeScript, Go, SQL.
-- **Web Infrastructure:** Astro (SSG), Tailwind CSS, Cloudflare Edge, Nginx.
+- **Languages:** C++, Python, Rust, TypeScript, Go, SQL.
+- **Web Infrastructure:** Astro (SSG), Tailwind CSS, React, Cloudflare Edge, Nginx.
 - **Systems & DevOps:** Linux (Arch), Docker, Kubernetes, GitHub Actions, Terraform.
 - **Logic & Research:** Competitive Programming (In-Silico Group), Algorithmic Optimization.
 
@@ -17,18 +17,9 @@
 
 | Project | Role | Status | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **[Velaris](https://velaris-web.pages.dev/)** | Founding Engineer | `PRODUCTION` | Astro, Cloudflare, Edge |
+| **[Velaris](https://velaris-web.pages.dev/)** | Founding Engineer | `PRODUCTION` | Astro, Tailwind, Cloudflare |
+| **[Portfolio](https://brayansuarez.pages.dev/)** | Developer | `PRODUCTION` | Astro, Tailwind, Cloudflare |
 | **Comecho** | Sole Engineer | `IN_DEV` | Rust, Dioxus, WebSockets |
-| **Portfolio** | Developer | `STABLE` | Astro, Canvas API, Tailwind |
-
----
-
-### 📊 Technical Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtlaasSD&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlaasSD&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
-</p>
 
 ---
 
