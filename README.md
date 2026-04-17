@@ -23,7 +23,7 @@
 
 ---
 
-### 📫 Connect with System
+### 📫 Connect with Me
 
 - **Portfolio:** [brayansuarez.pages.dev](https://brayansuarez.pages.dev/)
 - **LinkedIn:** [Brayan Suárez Ceballos](https://www.linkedin.com/in/brayan-su%C3%A1rez-ceballos/)
